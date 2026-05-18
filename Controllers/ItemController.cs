@@ -5,11 +5,7 @@ namespace GitPract.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeeController : ControllerBase
+    public class ItemController : ControllerBase
     {
-        public EmployeeController()
-        {
-
-        }
     }
 }
